@@ -1,6 +1,6 @@
 ---
 title: Управление версиями. Git.
-subtitle: Привет 👋 Здесь я расскажу о том, что такое «система контроля версий» и почему это важно? 
+subtitle: 
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
