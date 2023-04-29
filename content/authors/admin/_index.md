@@ -25,11 +25,11 @@ organizations:
     link: '/#contact'
   - icon: arxiv
     icon_pack: fab
-    link: https://arxiv.org/user/
+    url: https://arxiv.org/user/
     label: welcome to arxiv
   - icon: github
     icon_pack: fab
-    link: https://github.com/Marieizvekova
+    url: https://github.com/Marieizvekova
   - icon: elibrary
     icon_pack: fab
     link: https://elibrary.ru/defaultx.asp
