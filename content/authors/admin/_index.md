@@ -20,6 +20,25 @@ role: студентка первого курса бакалавра
 organizations:
   - name: РУДН
     url: https://www.rudn.ru/
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: arxiv
+    icon_pack: fab
+    link: https://arxiv.org/user/
+    label: welcome to arxiv
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Marieizvekova
+  - icon: elibrary
+    icon_pack: fab
+    link: https://elibrary.ru/defaultx.asp
+  - icon: GOOGLE Академия
+    icon_pack: fab
+    link: https://scholar.google.com
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Мое изучение проводится в сфере компьютерных и информационных науках
@@ -43,30 +62,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: arxiv
-    icon_pack: fab
-    link: https://arxiv.org/user/
-    label: welcome to arxiv
-    display:
-      header: true
-  - icon: academia
-    icon_pack: fas
-    link: https://independent.academia.edu/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%D0%98%D0%B7%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Marieizvekova
-  - icon: elibrary
-    icon_pack: fab
-    link: https://elibrary.ru/defaultx.asp
-  - icon: GOOGLE Академия
-    icon_pack: fab
-    link: https://scholar.google.com
-  - icon: mendeley
-    icon_pack: fab
-    link: https://www.mendeley.com/search/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
